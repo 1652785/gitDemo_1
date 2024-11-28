@@ -24,3 +24,4 @@ public class UserCenterApplication {
 
 // https://github.com/liyupi
 //修改文件为git push新文件做测试
+//用IDEA自带的git--add Directory--commit做测试
