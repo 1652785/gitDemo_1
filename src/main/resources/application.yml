@@ -14,7 +14,7 @@ spring:
   session:
     timeout: 86400
 server:
-  port: 8080
+  port: 8080 #宝塔linux关不了tomcat服务，感觉端口会一直被占用
   servlet:
     context-path: /api
 mybatis-plus:
